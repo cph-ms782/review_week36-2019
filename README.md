@@ -13,7 +13,7 @@ https://sandersolutions.dk/review_week36_monday/api/movies/count
 https://sandersolutions.dk/review_week36_monday/api/movies/movie/En%20mand%20ser%20rødt
 
 *Year:*  
-https://sandersolutions.dk/review_week36_monday/api/movies/movie/1979
+https://sandersolutions.dk/review_week36_monday/api/movies/year/1979
 
 *ID:*  
 https://sandersolutions.dk/review_week36_monday/api/movies/1
