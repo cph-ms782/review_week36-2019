@@ -30,7 +30,7 @@ Ikke alle tests har de samme fields som opgaven foreskriver. Det står i javadoc
   
 
 ## Wednesday  
-[Link]()  
+[Link](https://github.com/cph-ms782/review_week36_wednesday)  
 
 
 ## Thursday  
