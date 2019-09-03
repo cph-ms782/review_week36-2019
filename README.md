@@ -4,7 +4,7 @@
 [Link](https://github.com/cph-ms782/review_week36_monday/blob/master/README.md)
 
 ####Tuesday  
-[Link]()
+[Tests]()
   
 
 ####Wednesday  
