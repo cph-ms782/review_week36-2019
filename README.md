@@ -4,7 +4,7 @@
 [Link](https://github.com/cph-ms782/review_week36_monday/blob/master/README.md)
 
 ####Tuesday  
-[Tests]()
+[Tests](https://github.com/cph-ms782/review_week36_monday/blob/master/src/test/java/rest/MovieResourceTest.java)
   
 
 ####Wednesday  
