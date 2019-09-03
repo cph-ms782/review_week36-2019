@@ -1,7 +1,9 @@
-##review_week36-2019
-####Monday  
+#review_week36-2019  
+##Monday  
 [![Build Status](https://travis-ci.org/cph-ms782/review_week36_monday.svg?branch=master)](https://travis-ci.org/cph-ms782/review_week36_monday)  
 [Link](https://github.com/cph-ms782/review_week36_monday/blob/master/README.md)  
+
+
 **APIs:**  
 *All*  
 https://sandersolutions.dk/review_week36_monday/api/movies/all
@@ -20,18 +22,20 @@ https://sandersolutions.dk/review_week36_monday/api/movies/1
 
 
 
-####Tuesday  
-[Tests](https://github.com/cph-ms782/review_week36_monday/blob/master/src/test/java/rest/MovieResourceTest.java)
+##Tuesday  
+[Tests](https://github.com/cph-ms782/review_week36_monday/blob/master/src/test/java/rest/MovieResourceTest.java)  
 ID test virker ikke pt
   
 
-####Wednesday  
-[Link]()
+##Wednesday  
+[Link]()  
 
-####Thursday  
-[Link]()
 
-####Friday  
-[Link]()
+##Thursday  
+[Link]()  
+
+
+##Friday  
+[Link]()  
 
 
