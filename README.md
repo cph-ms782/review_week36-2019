@@ -24,7 +24,6 @@ https://sandersolutions.dk/review_week36_monday/api/movies/1
 
 ## Tuesday  
 [Tests](https://github.com/cph-ms782/review_week36_monday/blob/master/src/test/java/rest/MovieResourceTest.java)  
-ID test virker ikke pt og er disabled  
 Ikke alle tests har de samme fields som opgaven foreskriver. Det står i javadocs hvis der er ændringer.
 
   
