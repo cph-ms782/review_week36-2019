@@ -37,6 +37,8 @@ Ikke alle tests har de samme fields som opgaven foreskriver. Det står i javadoc
 
 
 ## Friday  
-[Link]()  
+[Film "database"](https://sandersolutions.dk/review_week36_monday/)  
+[HTML](https://github.com/cph-ms782/review_week36_monday/blob/master/src/main/webapp/index.html)  
+[JavaScript](https://github.com/cph-ms782/review_week36_monday/blob/master/src/main/webapp/Fetch.js)  
 
 
